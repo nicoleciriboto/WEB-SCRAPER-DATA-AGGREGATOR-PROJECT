@@ -1,0 +1,16 @@
+2025-04-14 10:13:24,302 - INFO - Web scraper started.
+2025-04-14 10:33:40,374 - INFO - Web scraper started.
+2025-04-14 11:19:16,185 - INFO - Web scraper started.
+2025-04-14 14:14:05,168 - INFO - Web scraper started.
+2025-04-14 14:26:32,414 - INFO - Web scraper started.
+2025-04-14 14:45:13,221 - INFO - Web scraper started.
+2025-04-14 14:45:14,360 - INFO - Successfully fetched URL: https://vacancymail.co.zw/jobs/
+2025-04-14 14:45:14,458 - WARNING - Skipping a job listing due to missing data.
+2025-04-14 14:45:14,458 - WARNING - Error extracting job data: 'NoneType' object has no attribute 'text'
+2025-04-14 14:45:14,637 - INFO - Saved 9 job listings to scraped_data_20250414_144514.csv
+2025-04-14 14:50:06,787 - INFO - Web scraper started.
+2025-04-14 14:50:07,558 - INFO - Successfully fetched URL: https://vacancymail.co.zw/jobs/
+2025-04-14 14:50:07,628 - WARNING - Skipping a job listing due to missing data.
+2025-04-14 14:50:07,629 - WARNING - Error extracting job data: 'NoneType' object has no attribute 'text'
+2025-04-14 14:50:07,636 - INFO - Saved 9 job listings to scraped_data_20250414_145007.csv
+2025-04-14 14:54:48,525 - INFO - Web scraper started.
